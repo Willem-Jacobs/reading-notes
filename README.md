@@ -6,45 +6,14 @@ Growth mindset is the ability to keep yourself in a mindful state where you are 
 2. **Obstacles**
      - Stay focuses on your end goal and overcome the obstacles.
 3. **Effort**
-     - Continue your task giving it 100% where > No paid, no gain.
+     - Continue your task giving it 100% where >No pain, no gain.
 4. **Criticism**
      - Take criticism from others as being a creative influence to your mindset where you learn from it and apply it.
 5. **Success of Others**
      - Let the success of others be your ambition to learn from them to improve your mindset by gaining from their success and adding your own spin to it.
      
+### Contact
+I am **Willem (Will) Jacobs**. I am attending the *CodeFellows* classes to improve my skill set to become a freelance web/web app developer based in The Cayman Islands. I have always had a passion for coding but but carreer path took me out of it. I am now wanting to return to my passion. I am 51 years old and currently the Deputy Director of Operations for The Port Authority of The Cayman Islands. I have worked for the Port Authority for 25 years spending 10 of those years in the IT department as a coder/tech/support/project manager then to IT Department Manager before moving to upper management. While at the Port Authority, I have developed various software packages for desktop windows systems and mobile terminals using .NET Compact Framework. These applications are still in use today.
 
-ou can use the [editor on GitHub](https://github.com/Willem-Jacobs/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Willem-Jacobs/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I can be reached by email at [Willem Jacobs](mailto:wamj58@gmail.com)
+My [Github Profile](https://github.com/Willem-Jacobs)

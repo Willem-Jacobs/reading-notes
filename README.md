@@ -1,6 +1,19 @@
-## Welcome to GitHub Pages
+## Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/Willem-Jacobs/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Growth mindset is the ability to keep yourself in a mindful state where you are positive of any situation and continue moving forward not letting key traits dischorage you. Key traits being:
+1. **Challenges**
+     - Face your challenges head-on and complete them to the best of your ability. Even if you need to research and learn new tasks.
+2. **Obstacles**
+     - Stay focuses on your end goal and overcome the obstacles.
+3. **Effort**
+     - Continue your task giving it 100% where > No paid, no gain.
+4. **Criticism**
+     - Take criticism from others as being a creative influence to your mindset where you learn from it and apply it.
+5. **Success of Others**
+     - Let the success of others be your ambition to learn from them to improve your mindset by gaining from their success and adding your own spin to it.
+     
+
+ou can use the [editor on GitHub](https://github.com/Willem-Jacobs/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

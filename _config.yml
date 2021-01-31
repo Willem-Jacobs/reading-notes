@@ -3,4 +3,6 @@ title: Willem Jacobs Homepage
 description: My projects while I work on the Codefellows classes
 email: wamj58@gmail.com
 github_username: Willem-Jacobs
-
+markdown: kramdown
+production_url: https://willem-jacobs.github.io/reading-notes
+BASE_PATH: https://willem-jacobs.github.io/reading-notes

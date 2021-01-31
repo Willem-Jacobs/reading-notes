@@ -6,7 +6,7 @@ Growth mindset is the ability to keep yourself in a mindful state where you are 
 2. **Obstacles**
      - Stay focuses on your end goal and overcome the obstacles.
 3. **Effort**
-     - Continue your task giving it 100% where >No pain, no gain.
+     - Continue your task giving it 100% where _No pain, no gain_.
 4. **Criticism**
      - Take criticism from others as being a creative influence to your mindset where you learn from it and apply it.
 5. **Success of Others**

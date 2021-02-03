@@ -29,3 +29,4 @@ Growth mindset is the ability to keep yourself in a mindful state where you are 
      - Let the success of others be your ambition to learn from them to improve your mindset by gaining from their success and adding your own spin to it.
      
 [Markdown Page](markdown.md)
+[Coders Computer](coder_computer.md)

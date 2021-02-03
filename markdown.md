@@ -4,10 +4,10 @@
 Markdown is a way to style normal text on the web. You have various keyboard symbols and spacing methods to format your test to be different size, bold, italics. You can create lists as unordered and ordered. You can have nestes lists and many other styles to use. The following link is a good source for example codes you can use to style. 
 
 Sample Code:
-For a H1 heading use `# Heading Text`
-For a H2 heading use `## Heading text`
-For each `#` you get a higher number heading.
-For **BOLD TEXT** use `**Some Text**`
+* For a H1 heading use `# Heading Text`
+* For a H2 heading use `## Heading text`
+* or each `#` you get a higher number heading.
+* For **BOLD TEXT** use `**Some Text**`
 
 For further syntax, click on this link: [Markdown Link](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 

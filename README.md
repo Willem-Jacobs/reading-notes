@@ -27,6 +27,7 @@ Growth mindset is the ability to keep yourself in a mindful state where you are 
      - Take criticism from others as being a creative influence to your mindset where you learn from it and apply it.
 5. **Success of Others**
      - Let the success of others be your ambition to learn from them to improve your mindset by gaining from their success and adding your own spin to it.
-     
+
+### Table of Contents
 - [Markdown Page](markdown.md)
 - [Coders Computer](coder_computer.md)

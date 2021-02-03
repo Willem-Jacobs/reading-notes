@@ -1,6 +1,20 @@
 # Editors & Terminal
 
-# Review of Terminal Commands
+## Editors
+Choosing a solid editor that fits your style is key to being a good developer. Most code editors, these days, have the same common features like:
+- Intellisence
+- Color Coding
+- Code Formatting
+_ Git intregation
+- Code Completion
+- Function and Method Definitions
+- Live Server - With extention add-on for some
+- Ability to add Extensions
+- Theming
+
+You want to use the type of editor that will do as much as possible for you, guide you into the right direction & correct your code. You do need to know the syntax and language you are using but the code completion will assist you very much. The editor will not write the code for you but will guide and show you the way.
+
+## Review of Terminal Commands
 
 - pwd shows the current working directory
 - touch created a file in current directory

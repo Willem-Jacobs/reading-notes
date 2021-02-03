@@ -1,4 +1,4 @@
-# Editors & Terminal
+# Editors & Terminal Read:02
 
 ## Editors
 Choosing a solid editor that fits your style is key to being a good developer. Most code editors, these days, have the same common features like:

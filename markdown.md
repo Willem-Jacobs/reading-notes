@@ -9,7 +9,7 @@ Sample Code:
 * or each `#` you get a higher number heading.
 * For **BOLD TEXT** use `**Some Text**`
 
-For further syntax, click on this link: [Markdown Link](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+For further syntax, click on this link: [Markdown Syntax Codes](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 # GitHub Pages

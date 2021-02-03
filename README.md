@@ -8,7 +8,6 @@ My reading notes for CodeFellows
 - [Contact Information](contact.md)
 - [Growth Mindset Assignment](growth.md)
 - [Markdown Assignment](markdown.md)
-- [Coders Computer Assignment](coder_computer.md)
 - [Editors & Terminal Assignment](editors.md)
 
 ## My Bio & History

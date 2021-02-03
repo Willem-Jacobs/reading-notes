@@ -1,6 +1,6 @@
 # Git Notes Read:03
 
-Git is used on your local machine to create version control & backup archive. It is a CLI (Command Line Interface) utlity.
+Git is used on your local machine to create version control & backup archive. It is a CLI (Command Line Interface) utility.
 
 There are a few key steps to follow to create a master/main branch of your work into a repository. This defined as **ACP:**
 - Add by using: git add `filename.extension` or `.` or `--all`

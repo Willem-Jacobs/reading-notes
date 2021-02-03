@@ -1,2 +1,0 @@
-# Git Reading Assignment
-

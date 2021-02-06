@@ -10,6 +10,7 @@ My reading notes for CodeFellows
 - [Read:01 Markdown Assignment](markdown.md)
 - [Read:02 Editors & Terminal Assignment](editors.md)
 - [Read:03 Revisions and the Cloud (git)](gitnotes.md)
+- [Read:04 Structure web pages with HTML](readClass4.md)
 - [Lab:03 Practice with Git](lab03.md)
 
 ## My Bio & History

@@ -13,6 +13,7 @@ My reading notes for CodeFellows
 - [Read:04 Structure web pages with HTML](readClass4.md)
 - [Read:05 CSS Basics & Color](readClass5.md)
 - [Read:06a Dynamic Web Pages with JavaScript](readClass6.md)
+- [Read:06b How Computers Work](readClass6b.md)
 - [Lab:03 Practice with Git](lab03.md)
 
 ## My Bio & History

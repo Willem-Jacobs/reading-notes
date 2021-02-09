@@ -12,7 +12,7 @@ My reading notes for CodeFellows
 - [Read:03 Revisions and the Cloud (git)](gitnotes.md)
 - [Read:04 Structure web pages with HTML](readClass4.md)
 - [Read:05 CSS Basics & Color](readClass5.md)
-- [Read:06 Dynamic Web Pages with JavaScript](readClass6.md)
+- [Read:06a Dynamic Web Pages with JavaScript](readClass6.md)
 - [Lab:03 Practice with Git](lab03.md)
 
 ## My Bio & History

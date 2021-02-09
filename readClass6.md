@@ -1,6 +1,6 @@
 # Dynamic Web Pages with JavaScript
 
-## Reading 06
+## Reading 06a
 
 - Starter code was written for us so did not have to type it all in.
 - Did the steps that needed to be checked to see the outcome.

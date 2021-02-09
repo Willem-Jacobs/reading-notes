@@ -1,4 +1,4 @@
-# Dynamic Web Pages with JavaScript
+# Reading Dynamic Web Pages with JavaScript
 
 ## Reading 06a
 

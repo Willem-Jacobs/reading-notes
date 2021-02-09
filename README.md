@@ -14,6 +14,7 @@ My reading notes for CodeFellows
 - [Read:05 CSS Basics & Color](readClass5.md)
 - [Read:06a Dynamic Web Pages with JavaScript](readClass6.md)
 - [Read:06b How Computers Work](readClass6b.md)
+- [Read:07 Programming with JavaScript](readClass7.md)
 - [Lab:03 Practice with Git](lab03.md)
 
 ## My Bio & History

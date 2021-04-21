@@ -2,21 +2,12 @@
 Willem Jacobs
 
 ## Description
-My reading notes for CodeFellows
+My Codefellows Reading Notes per course taken
 
 ### Table of Contents
 - [Contact Information](contact.md)
-- [Growth Mindset Assignment](growth.md)
-- [Read:01 Markdown Assignment](markdown.md)
-- [Read:02 Editors & Terminal Assignment](editors.md)
-- [Read:03 Revisions and the Cloud (git)](gitnotes.md)
-- [Read:04 Structure web pages with HTML](readClass4.md)
-- [Read:05 CSS Basics & Color](readClass5.md)
-- [Read:06a Dynamic Web Pages with JavaScript](readClass6.md)
-- [Read:06b How Computers Work](readClass6b.md)
-- [Read:07 Programming with JavaScript](readClass7.md)
-- [Read:08 Loops](readClass8.md)
-- [Lab:03 Practice with Git](lab03.md)
+- [Course 102](102TOC.md)
+- [Course 201](201TOC.md)
 
 ## My Bio & History
 

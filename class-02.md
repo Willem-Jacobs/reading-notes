@@ -16,17 +16,15 @@
  - `<br /> & <hr />` Inline elements that are self closing meaning no `</br> or </hr>` needed. `<br />` used to force a line break and `<hr />` used to force a line break adding a line. These are also known as **empty elements** that have no text between the open & close tags.
  - `<strong>` Semantic tag used inside others, mostly a `<p>`. Requires a closing tag of `</strong>` with the text between the tags. Places strong importance on the text between the tags. By default, browsers will mark this tag and **bold**.
  - `<em>` Semantic tag used inside others, mostly a `<p>`. Requries a closing tag of `</em>` The text to emphasis is between the tags. By default, browsers will show this as italic.
- - `<blockquote>` Block element. Semantic tag. Requries a closing tag of `</blockquote>`. Also needs a attribute passed of `cite="http://website/page???` and then the text to quote between the open & closing tags usually wrapped in a `<p>`. Browsers tend to indent this text. Example:
- ```
- {
+ - `<blockquote>` Block element. Semantic tag. Requries a closing tag of `</blockquote>`. Also needs an attribute passed of `cite="http://website/page???` and then the text to quote between the open & closing tags usually wrapped in a `<p>`. Browsers tend to indent this text. Example:
+ ```html
  <blockquote> cite="website address/page">
     <p>some text that is quoted</p>
  </blockquote>
- }
- ```
+ ``` 
  - `<q>` Semantic tag. Inline usage. Used for shorter quotes and places `""` around the elements between the open & close tag. Requires a closing tag of `</q>`.
  - `<abbr>` Semantic tag. Inline usage. To define an abbreviation or an acronym. Requires a title attribute to be passed and the abbrevation/acronym between the tags. Requires a closing tag `</abbr>` This tag normally placed inside a wrapping `<p>`
- ```
+ ```html
  <p><abbr title="Her Majesties Service">HMS</abbr>Her Majesties Service.</p>
  ```
  - `<cite>` Semantic tag. Inline usage. Used to cite a book, film, paper or some type of publication. Requries a closing tag `</cite>`. Browsers will show the text between the tags as italic.

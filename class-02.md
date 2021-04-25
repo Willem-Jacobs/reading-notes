@@ -93,6 +93,7 @@ Using a seperate style sheet (CSS file) has many benefits
 - Has a clear seperation between the different parts of the web page being HTML & CSS.
 - Easier to maintain, edit and debug.
 
+## JavaScript Reading
 ## Chapter 2 - Basic JavaScript Instructions
  *Resource: Duckett HTML Book* - Various parts cited from the resource
 - Statements - A script (JavaScript File) is a series of instructions that a computer can follow line by line. Each individual instruction or step is known as a **statement** ending with a `;`.

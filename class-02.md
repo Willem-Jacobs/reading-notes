@@ -1,7 +1,7 @@
 [Return to 201 TOC](201TOC.md)
 
 ## HTML Book Readings
-*Resource: Duckett HTML Book*
+*Resource: Duckett HTML Book* - Various parts cited from the resource
 ## Chapter 2 - Text
  - Structural markup:
  : The elements that you can use to describe both deadings and paragraphs
@@ -38,7 +38,7 @@
  - `<s></s>` Semantic tag. Inline usage. The content between the tags will be displayed with a line through it. This to mark an item no longer accurate or relevent but should not be deleted.
 
 ## Chapter 10 - Introducing CSS
- *Resource: Duckett HTML Book*
+ *Resource: Duckett HTML Book* - Various parts cited from the resource
  CSS is used to style and layout your web pages to make them more arrtactive, controlling the design of them using CSS.
 
  This is accomplished by changing the font type, font size, color of text, color of background, applying the rules to certain tag elements and many more options to assign the style.
@@ -94,7 +94,7 @@ Using a seperate style sheet (CSS file) has many benefits
 - Easier to maintain, edit and debug.
 
 ## Chapter 2 - Basic JavaScript Instructions
- *Resource: Duckett HTML Book*
+ *Resource: Duckett HTML Book* - Various parts cited from the resource
 - Statements - A script (JavaScript File) is a series of instructions that a computer can follow line by line. Each individual instruction or step is known as a **statement** ending with a `;`.
 - JavaScript is a case sensitive language. myName is different then MyName and both are different then myname or MYNAME.
 - Statements usually being a new line and statements can be organized into code blocks where the start/end of the code block are the `{ statements inside to form a code block }`.
@@ -132,7 +132,7 @@ will return myArray showing [1, 2, 4].
 - If you try to use math operators on strings, you will get get a return value of `NaN` which means "Not a Number".
 
 ## Chapter 4 - Decisions Statements (part of the chapter)
- *Resource: Duckett HTML Book*
+ *Resource: Duckett HTML Book* - Various parts cited from the resource
 - There are two parts to a decision.
     - Expression is evaluated which returns a value.
     - Conditional statement says what to do in a given situation.

@@ -17,11 +17,13 @@
  - `<strong>` Semantic tag used inside others, mostly a `<p>`. Requires a closing tag of `</strong>` with the text between the tags. Places strong importance on the text between the tags. By default, browsers will mark this tag and **bold**.
  - `<em>` Semantic tag used inside others, mostly a `<p>`. Requries a closing tag of `</em>` The text to emphasis is between the tags. By default, browsers will show this as italic.
  - `<blockquote>` Block element. Semantic tag. Requries a closing tag of `</blockquote>`. Also needs an attribute passed of `cite="http://website/page???` and then the text to quote between the open & closing tags usually wrapped in a `<p>`. Browsers tend to indent this text. Example:
+
  ```html
  <blockquote> cite="website address/page">
     <p>some text that is quoted</p>
  </blockquote>
  ``` 
+ 
  - `<q>` Semantic tag. Inline usage. Used for shorter quotes and places `""` around the elements between the open & close tag. Requires a closing tag of `</q>`.
  - `<abbr>` Semantic tag. Inline usage. To define an abbreviation or an acronym. Requires a title attribute to be passed and the abbrevation/acronym between the tags. Requires a closing tag `</abbr>` This tag normally placed inside a wrapping `<p>`
  ```html

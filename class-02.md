@@ -37,7 +37,7 @@
  - `<ins></ins> & <del></del>` Semantic tags. Inline usage. INS marks a word as inserted by underlining it. DEL makrs a word as deleted by putting a line through it.
  - `<s></s>` Semantic tag. Inline usage. The content between the tags will be displayed with a line through it. This to mark an item no longer accurate or relevent but should not be deleted.
 
- ## Chapter 10 - Introducing CSS
+## Chapter 10 - Introducing CSS
  *Resource: Duckett HTML Book*
  CSS is used to style and layout your web pages to make them more arrtactive, controlling the design of them using CSS.
 
@@ -93,7 +93,7 @@ Using a seperate style sheet (CSS file) has many benefits
 - Has a clear seperation between the different parts of the web page being HTML & CSS.
 - Easier to maintain, edit and debug.
 
- ## Chapter 2 - Basic JavaScript Instructions
+## Chapter 2 - Basic JavaScript Instructions
  *Resource: Duckett HTML Book*
 - Statements - A script (JavaScript File) is a series of instructions that a computer can follow line by line. Each individual instruction or step is known as a **statement** ending with a `;`.
 - JavaScript is a case sensitive language. myName is different then MyName and both are different then myname or MYNAME.
@@ -131,7 +131,7 @@ will return myArray showing [1, 2, 4].
 - If you also try to combine a number with a string using the "+", JS will convert the number to a string and join it to the string.
 - If you try to use math operators on strings, you will get get a return value of `NaN` which means "Not a Number".
 
- ## Chapter 4 - Decisions Statements (part of the chapter)
+## Chapter 4 - Decisions Statements (part of the chapter)
  *Resource: Duckett HTML Book*
 - There are two parts to a decision.
     - Expression is evaluated which returns a value.

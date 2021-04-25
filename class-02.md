@@ -23,12 +23,14 @@
     <p>some text that is quoted</p>
  </blockquote>
  ``` 
- 
+
  - `<q>` Semantic tag. Inline usage. Used for shorter quotes and places `""` around the elements between the open & close tag. Requires a closing tag of `</q>`.
  - `<abbr>` Semantic tag. Inline usage. To define an abbreviation or an acronym. Requires a title attribute to be passed and the abbrevation/acronym between the tags. Requires a closing tag `</abbr>` This tag normally placed inside a wrapping `<p>`
+
  ```html
  <p><abbr title="Her Majesties Service">HMS</abbr>Her Majesties Service.</p>
  ```
+
  - `<cite>` Semantic tag. Inline usage. Used to cite a book, film, paper or some type of publication. Requries a closing tag `</cite>`. Browsers will show the text between the tags as italic.
  - `<dfn>` Semantic tag. Inline usage. Used to mark the text between the tags as defining instance. Requires a closing tag `</dfn>`. Some browsers will display as italic but some will not change the appreance. Mainly for screen readers & other programs/services.
  - `<address>` Semantic tag. Used to define the contact details for the author of the page. Can contain an address, email or phone. Browsers often dislay at italic. Requires a closing tag `</address>` and containers others tags to define the information to display. Could be an `<a> or <p>`.
@@ -109,11 +111,13 @@ Using a seperate style sheet (CSS file) has many benefits
 - You access the value by using the array name then `[]` with the index numeric value of the value needed. Example `myArray[2]` will get you the 3rd value in an array called "myArray".
 - Variables have a lot of extra methods that are automatically available to them. One for an array is called length. This will return a value of the number of items in the array. Example: `let numMyArray = myArray.length` will return a number and store it in the `numMyArray` variable. If the array has 3 values defined, the number returned would be 3.
 - The value in an array can be changed. You have an array that has 3 items and you want to change the last item you can do so by accessing the array with the index number in `[ ]` and then assiging it the new value. Example:
-```
+
+```javascript
 let myArray = [1, 2, 3]
 myArray[2] = 4
 console.log(myArray)
 ```
+
 Will return myArray showing [1, 2, 4].
 - Operators are used heavily in JS
 - `=` - assignment.

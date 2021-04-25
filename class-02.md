@@ -117,8 +117,8 @@ let myArray = [1, 2, 3]
 myArray[2] = 4
 console.log(myArray)
 ```
+will return myArray showing [1, 2, 4].
 
-Will return myArray showing [1, 2, 4].
 - Operators are used heavily in JS
 - `=` - assignment.
 - `+' - combining for strings and addition for numbers.

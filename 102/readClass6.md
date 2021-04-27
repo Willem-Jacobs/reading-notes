@@ -19,4 +19,6 @@
 - Use camelCase syntax in JS.
 - Assign values to the variable by using the '=' then the value to be assigned. This can be text, number, boolean, object or array. A variable with no value is considered `undefined`.
 
-[Return to Main Page](README.md)
+[Return to 102 TOC](102toc.md)
+
+[Return to Main Page](../README.md)

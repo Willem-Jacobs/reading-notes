@@ -17,4 +17,6 @@
 
 - Functions allow you to name chuncks of code and call them to be executed when needed to perform a certain task. Data can be passed into the function by specifying arguments when calling (invoking) the function. The function is defined with parameters that match the arguments being passed in. A function can return data after it is executed. This data is stored in a variable that is defiled when invoking the function.
 
-[Return to Main Page](README.md)
+[Return to 102 TOC](102toc.md)
+
+[Return to Main Page](../README.md)

@@ -27,4 +27,6 @@
 - CSS3 added HSL and HSLA for color choice setting. HSL lets you add HUE, Saturation and Lightness. HSLA adds a 4th property to add transparency.
 - 
 
-[Return to Main Page](README.md)
+[Return to 102 TOC](102toc.md)
+
+[Return to Main Page](../README.md)

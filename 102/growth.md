@@ -12,4 +12,6 @@ Growth mindset is the ability to keep yourself in a mindful state where you are 
 5. **Success of Others**
      - Let the success of others be your ambition to learn from them to improve your mindset by gaining from their success and adding your own spin to it.
 
-[Return to Main Page](README.md)
+[Return to 102 TOC](102toc.md)
+
+[Return to Main Page](../README.md)

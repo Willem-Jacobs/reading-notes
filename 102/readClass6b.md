@@ -7,4 +7,6 @@ The parts I enjoyed the most are:
 
 All 3 of these are areas that I work with during the code process. All 3 of these show the speed, ability & power of computers along with the details that go into making them work and do the tasks we all use daily.
 
-[Return to Main Page](README.md)
+[Return to 102 TOC](102toc.md)
+
+[Return to Main Page](../README.md)

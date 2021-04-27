@@ -1,7 +1,9 @@
 # Editors & Terminal Read:02
 
 ## Editors
+
 Choosing a solid editor that fits your style is key to being a good developer. Most code editors, these days, have the same common features like:
+
 - Intellisence
 - Color Coding
 - Code Formatting
@@ -26,4 +28,6 @@ You want to use the type of editor that will do as much as possible for you, gui
 - mv can be used to move files to other folders. Specify file name then directory with / if keep same name not need to specify filename after / but can. Can also use to rename the file in directory being moved to.
 - rm deletes a file or directory. Flags can be added to do a force delete of directory. -f force delete ignore all errors. -i for interactive mode. -r for recursive delete all directories and files in the parent folder. rm with no flag and directory name will delete directory but has to be empty.
 
-[Return to Main Page](README.md)
+[Return to 102 TOC](102toc.md)
+
+[Return to Main Page](../README.md)

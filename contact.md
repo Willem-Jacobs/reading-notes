@@ -8,6 +8,6 @@ My [Github Profile](https://github.com/Willem-Jacobs)
 
 [Return to Main Page](README.md)
 
-[Return to 102 TOC](102TOC.md)
+[Return to 102 TOC](102/102TOC.md)
 
-[Return to 201 TOC](201TOC.md)
+[Return to 201 TOC](201/201TOC.md)

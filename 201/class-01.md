@@ -1,7 +1,9 @@
 [Return to 201 TOC](201TOC.md)
 
 ## HTML Book Readings
+
 ## Chapter 8
+
 - Comments in HTML
 - `DOCTYPES` define the version being used to the browser.
 - ID & CLASS allow you to identify elements
@@ -10,10 +12,12 @@
 - Escape character to be used for special symbols.
 
 ## Chapter 17
+
 - HTML5 indicate the purpose of different parts of a page and defines the structure
 - Limit the usage of `<DIV>`
 
 ## Chapter 18
+
 - Key questions to answer
   - Who is the site for?
     - Design your site for the target audiance being individual or company. Know the demographics of the individual to get an understanding of the audiance.
@@ -45,7 +49,9 @@
     - Good navigatin provides context, interactive and consistent across all pages.
 
 ## JavaScript Book Reading
+
 ## Chapter 1
+
 - Script file is a text based file containg a series of instructions for the browser to execute.
 - Writing a Script.
     - Defile the goal.
@@ -65,8 +71,6 @@
     `object.write("hello world!")` object here is the instance (name) of the object then the "." and WRITE is the methond of that object being called.
     - A JavaScript (JS) script file is ran from the HMTL using the `<script>` tag in your html file. Placement of this line is critical as it will run where the file is found and this can lead to the wrong results.
     - Script file does not change your HTML file. It changes the HTML object model that the browser creates.
-
-
 
 [Return to 201 TOC](201TOC.md)
 

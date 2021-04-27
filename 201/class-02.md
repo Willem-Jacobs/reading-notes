@@ -1,8 +1,10 @@
 [Return to 201 TOC](201TOC.md)
 
 ## HTML Book Readings
+
 *Resource: Duckett HTML Book* - Various parts cited from the resource
 ## Chapter 2 - Text
+
  - Structural markup:
  : The elements that you can use to describe both deadings and paragraphs
  - Semantic markup:
@@ -38,6 +40,7 @@
  - `<s></s>` Semantic tag. Inline usage. The content between the tags will be displayed with a line through it. This to mark an item no longer accurate or relevent but should not be deleted.
 
 ## Chapter 10 - Introducing CSS
+
  *Resource: Duckett HTML Book* - Various parts cited from the resource
  CSS is used to style and layout your web pages to make them more arrtactive, controlling the design of them using CSS.
 
@@ -94,7 +97,9 @@ Using a seperate style sheet (CSS file) has many benefits
 - Easier to maintain, edit and debug.
 
 ## JavaScript Reading
+
 ## Chapter 2 - Basic JavaScript Instructions
+
  *Resource: Duckett HTML Book* - Various parts cited from the resource
 - Statements - A script (JavaScript File) is a series of instructions that a computer can follow line by line. Each individual instruction or step is known as a **statement** ending with a `;`.
 - JavaScript is a case sensitive language. myName is different then MyName and both are different then myname or MYNAME.
@@ -133,6 +138,7 @@ will return myArray showing [1, 2, 4].
 - If you try to use math operators on strings, you will get get a return value of `NaN` which means "Not a Number".
 
 ## Chapter 4 - Decisions Statements (part of the chapter)
+
  *Resource: Duckett HTML Book* - Various parts cited from the resource
 - There are two parts to a decision.
     - Expression is evaluated which returns a value.
@@ -146,7 +152,6 @@ will return myArray showing [1, 2, 4].
 - `if then else` statement is one of the most used statements for decision making in any language.
 - If statement checks a condition and if true will run the first set of code in the ` { }` block. If the statement evaluates to false, it will skip the block and go to code after the block or if the statement has an `else` block, it will run that set of stements and then resume the code after the complete `if` statement.
 - Evaulation is done by comparing one value in the script to what you expect it might be. The result will be a boolean being true or false.
-
 
 [Return to 201 TOC](201TOC.md)
 

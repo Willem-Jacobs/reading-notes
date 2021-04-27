@@ -6,6 +6,6 @@ Git is very easy to use from the CLI but will just take sometime for a person to
 
 Looking forward to learn more about git doing the CodeFellows classes.
 
-[Return to 102 TOC](102toc.md)
+[Return to 102 TOC](102TOC.md)
 
 [Return to Main Page](../README.md)

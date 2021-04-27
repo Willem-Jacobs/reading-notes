@@ -1,6 +1,7 @@
-## Growth Mindset
+# Growth Mindset
 
 Growth mindset is the ability to keep yourself in a mindful state where you are positive of any situation and continue moving forward not letting key traits dischorage you. Key traits being:
+
 1. **Challenges**
      - Face your challenges head-on and complete them to the best of your ability. Even if you need to research and learn new tasks.
 2. **Obstacles**
@@ -12,6 +13,6 @@ Growth mindset is the ability to keep yourself in a mindful state where you are 
 5. **Success of Others**
      - Let the success of others be your ambition to learn from them to improve your mindset by gaining from their success and adding your own spin to it.
 
-[Return to 102 TOC](102toc.md)
+[Return to 102 TOC](102TOC.md)
 
 [Return to Main Page](../README.md)

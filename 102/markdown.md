@@ -15,6 +15,6 @@ For further syntax, click on this link: [Markdown Syntax Codes](https://docs.git
 # GitHub Pages
 Github pages allows you to create a webpage within your repository in the root level to showcase your projects and code. All the formatting is done using Markdown Syntax that is described above.
 
-[Return to 102 TOC](102toc.md)
+[Return to 102 TOC](102TOC.md)
 
 [Return to Main Page](../README.md)

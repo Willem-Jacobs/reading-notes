@@ -25,6 +25,6 @@
 - The DO WHILE loop is similar to the loop but it checks the condition after running the logic code block at least once. It runs this even if the condition is false at the first try.
 - Loops can return a value by using the RETURN statement.
 
-[Return to 102 TOC](102toc.md)
+[Return to 102 TOC](102TOC.md)
 
 [Return to Main Page](../README.md)

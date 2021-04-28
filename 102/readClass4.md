@@ -1,6 +1,7 @@
 # Reading Assignment Class 4
 
 ## Chapter 18
+
 - Key questions to answer
   - Who is the site for?
     - Design your site for the target audiance being individual or company. Know the demographics of the individual to get an understanding of the audiance.
@@ -32,10 +33,12 @@
     - Good navigatin provides context, interactive and consistent across all pages.
 
 ## Chapter 17
+
 - HTML5 indicate the purpose of different parts of a page and defines the structure
 - Limit the usage of `<DIV>`
 
 ## Chapter 8
+
 - Comments in HTML
 - `DOCTYPES` define the version being used to the browser.
 - ID & CLASS allow you to identify elements

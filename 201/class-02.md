@@ -140,9 +140,10 @@ will return myArray showing [1, 2, 4].
 ## Chapter 4 - Decisions Statements (part of the chapter)
 
  *Resource: Duckett HTML Book* - Various parts cited from the resource
+
 - There are two parts to a decision.
-    - Expression is evaluated which returns a value.
-    - Conditional statement says what to do in a given situation.
+  - Expression is evaluated which returns a value.
+  - Conditional statement says what to do in a given situation.
 - Various operators are available for the condition evaluation. There are `==` is equal, `!=` is not equal, `===` strict equal, `!==` strict not equal. Strict comparison checks the value and data type while is equal just checks the value.
 - There are a few other operators which are: `>` greater than, `<` less than, `>=` greater than or equal to, `<=` less than or equal to.
 - Coompasison operators are enclosed in `( )` and containers two operands and one operator. The operator is between the two operands. `(myAge >= yourAge)` this checks if myAge variable containing a number is greater than or equal to yourAge container a number. It will return a true or false depending on the value of the two variables.

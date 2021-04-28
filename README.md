@@ -1,10 +1,13 @@
 # Author
+
 Willem Jacobs
 
 ## Description
+
 My Codefellows Reading Notes per course taken
 
 ### Table of Contents
+
 - [Contact Information](contact.md)
 - [Code 102 Reading Notes](102/102TOC.md)
 - [Code 201 Reading Notes](201/201TOC.md)

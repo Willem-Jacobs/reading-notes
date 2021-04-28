@@ -54,17 +54,17 @@
 
 - Script file is a text based file containg a series of instructions for the browser to execute.
 - Writing a Script.
-    - Defile the goal.
-    - Design the script.
-        - Breakdown info tasks required then break each tasks down to steps needed
+  - Defile the goal.
+  - Design the script.
+  - Breakdown info tasks required then break each tasks down to steps needed
         to reach outcome for the task.
-        - Flowcharts good to use to get a visual of the steps and branching.
-    - Code each step.
-    - Computers creates models of the world.
-        - uses Objects to define the data set (items).
-        - Objects (the item) can have properties (physical data) and methods (tasks).
-        - Events are the interaction with the object that changes its properties by executing methods.
-    - Web browsers create an Object of the page having the item, properties, methods and monitors events that happen to that object.
+  - Flowcharts good to use to get a visual of the steps and branching.
+  - Code each step.
+  - Computers creates models of the world.
+  - uses Objects to define the data set (items).
+  - Objects (the item) can have properties (physical data) and methods (tasks).
+  - Events are the interaction with the object that changes its properties by executing methods.
+  - Web browsers create an Object of the page having the item, properties, methods and monitors events that happen to that object.
     - The main HTML web page becomes the object containing properties (data), methods (the code that changes the data) and events (trigger for the changes) that use the methods to change the properties.
     - HTM is the content layer. CSS is the presentation layer and JavaScript is the behavior layer.
     - Calling a method on an object uses dot notation. Refer to the object instance name then a "." then the method with its defined parameter passed in.

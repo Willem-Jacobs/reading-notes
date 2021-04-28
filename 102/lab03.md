@@ -1,4 +1,4 @@
-## Git Notes Lab:03
+# Git Notes Lab:03
 
 Git is a create tool for developers to use to assist them with version control, local backup and to push your project code to GitHub repository to share with others on your team, other developers or even make your final version working project available to all.
 

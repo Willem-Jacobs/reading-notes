@@ -1,6 +1,6 @@
-[Return to 201 TOC](201TOC.md)
+# HTML Book Readings
 
-## HTML Book Readings
+[Return to 201 TOC](201TOC.md)
 
 ## Chapter 8
 

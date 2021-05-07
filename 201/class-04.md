@@ -38,7 +38,7 @@
 - Functions break up your code into smaller manageable chunks that you call (invoke) them as needed. Some may need additional parameters passed into the funciton to do some work and then return the result for you to use in the rest of your code.
 - The syntax to create a basic function that takes no parameters and returns no value is as follows:
 
-```
+```javascript
 function myFunction() {
   console.log('My Function ran');
 }
@@ -53,7 +53,7 @@ function myFunction() {
 - Anonymous functions can also be used and these are functions stored in a variable. These can't be invoked before they are declared. Anonymous function look like `let myFunction = function() { console.log('Hello')};`. You can see that the function has no name but it is on the expression of the varibale and can be invoked by calling the varibale.
 - An anonymous function can be invoked at the time of declaring it placing `()` directoy after the closing "}" and wrapping the entire function in `()` example:
 
-```
+```javascript
 let myVar = (function() {
   console.log('Hello");
 }())

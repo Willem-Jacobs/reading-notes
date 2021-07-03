@@ -9,9 +9,9 @@ My Codefellows Reading Notes per course taken
 ### Table of Contents
 
 - [Contact Information](contact.md)
-- [Code 102 Reading Notes](102/102TOC.md)
-- [Code 201 Reading Notes](201/201TOC.md)
-- [Code 301 Reading Notes](301/301TOC.md)
+- [Code 102 Intro to Software Development](102/102TOC.md)
+- [Code 201 Foundations of Software Development](201/201TOC.md)
+- [Code 301 Intermediate Software Development](301/301TOC.md)
 
 ## My Bio & History
 

@@ -11,6 +11,7 @@ My Codefellows Reading Notes per course taken
 - [Contact Information](contact.md)
 - [Code 102 Reading Notes](102/102TOC.md)
 - [Code 201 Reading Notes](201/201TOC.md)
+- [Code 301 Reading Notes](301/301TOC.md)
 
 ## My Bio & History
 

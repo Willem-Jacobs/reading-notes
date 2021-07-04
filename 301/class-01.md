@@ -22,7 +22,7 @@
 
 - **How are props used in React?** > To pass data from one component to another.
 
-- **What is the flow of props?** > uni-directional flow from parent to child.
+- **What is the flow of props?** > uni-directional flow from parent to child. Reminder props are read-only.
 
 ### Things I want to know more about
 

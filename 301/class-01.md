@@ -18,7 +18,7 @@
 
 **[Reading from](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)**
 
-- **What is props short for?** > Short for PROPERTIES. React will create an object like variable with all the values passed using the props name thus making them available in the code of the component by accessing `props.<some-name>` where <some-name> is the name of the prop used by the parent to pass to the child.
+- **What is props short for?** > Short for PROPERTIES. React will create an object like variable with all the values passed using the props name thus making them available in the code of the component by accessing `props.<some-name>` where \<some-name> is the name of the prop used by the parent to pass to the child.
 
 - **How are props used in React?** > To pass data from one component to another.
 

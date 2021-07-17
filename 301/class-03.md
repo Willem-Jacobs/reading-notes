@@ -81,6 +81,7 @@
 ### Bookmark/Skim
 
 **[React Tutorial through 'Declaring a Winner' - Link](https://reactjs.org/tutorial/tutorial.html)**
+
 **[React Docs: Lifting State Up - Link](https://reactjs.org/docs/lifting-state-up.html)**
 
 ### Things I want to know more about

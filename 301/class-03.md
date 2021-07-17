@@ -10,7 +10,7 @@
 
 **[Reading from - Link](https://reactjs.org/docs/lists-and-keys.html)**
 
-- **What does .map() return>?** > Maps over each element in the array returning a new array that meets the parameters you specify in the callback function that map requires. Map can be embedded in the JSX betweekn {} to run JS.
+- **What does .map() return>?** > Maps over each element in the array returning a new array that meets the parameters you specify in the callback function that map requires. Map can be embedded in the JSX between {} to run JS.
 
 - **If I want to loop through an array and display each value in JSX, how do I do that in React?** > Use .map() on the array and return JSX part into a new array. Then output that array as JS in the render() return section.
 
@@ -28,7 +28,7 @@
 
 - **Each list item needs a unique?** > Key.
 
-- **What is the purpose of a key?** > React uses this as an indentifier for the list item, or class instance to track what is to be updated/deleted. It is to provide a stable identity to the item. The value has to be unique among siblings.
+- **What is the purpose of a key?** > React uses this as an identifier for the list item, or class instance to track what is to be updated/deleted. It is to provide a stable identity to the item. The value has to be unique among siblings.
 
 ### The Spread Operator
 
@@ -36,7 +36,7 @@
 
 - **What is the Spread Operator?** > for adding items to arrays, combining arrays or objects and spreading an array out into a function's arguments.
 
-- **List 4 things that the spread operator can do?** > Spreads the array into seperate arguments. Addint an item to a list. Adding to state in React. Copy an array.
+- **List 4 things that the spread operator can do?** > Spreads the array into separate arguments. Add it an item to a list. Adding to state in React. Copy an array.
 
 - **Give an example of using the spread operator to combine two arrays.**
 

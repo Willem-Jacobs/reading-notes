@@ -14,7 +14,7 @@
 
 - **What are the advantages of using component based architecture?** > Ease of deployment, reduced costs, ease of development, reusable, moification of technical complexity, reliablilty, system maintenance and evolution, independent.
 
-### What is Props and Hose to use it in React
+### What is Props and how to use it in React
 
 **[Reading from](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)**
 

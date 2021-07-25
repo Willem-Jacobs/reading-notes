@@ -36,6 +36,14 @@
 
 - **How does pair programming work?** >
 
+## Bookmark/Skim
+
+- Geocoding API Docs [link](https://locationiq.com/)
+
+- Axios Docs [link](https://www.npmjs.com/package/axios)
+
+- MDN async and await [link](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+
 ### Things I want to know more about
 
 - None at this time.

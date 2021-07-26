@@ -1,4 +1,4 @@
-# REeadings: NODE.JS
+# Readings: NODE.JS
 
 [Return to 301 TOC](301TOC.md)
 
@@ -26,7 +26,7 @@
 
 ## Pair Programming
 
-### 6 REasons for Pair Programming
+### 6 Reasons for Pair Programming
 
 **[Reading from - Link](https://www.codefellows.org/blog/6-reasons-for-pair-programming//)**
 
@@ -46,7 +46,7 @@
 
 ### Things I want to know more about
 
-- None at this time.
+- Node server development and APIs.
 
 [Return to 301 TOC](301TOC.md)
 

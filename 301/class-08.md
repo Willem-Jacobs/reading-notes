@@ -34,7 +34,7 @@
 
 - **RegExr [link](https://regexr.com/)**
 
-- **How would you match your name using RegEx?** >
+- **How would you match your name using RegEx?** > /(Jacobs)/g
 
 - **Regex Tutorial [link](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)**
 

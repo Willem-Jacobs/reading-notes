@@ -6,15 +6,30 @@
 
 **[Reading from - Link](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)**
 
-- **What is a ‘call’?** >
+- **What is a ‘call’?** > A functon invocation (call).
 
-- **How many ‘calls’ can happen at once?** >
+- **How many ‘calls’ can happen at once?** > One active at a time. The call stack in single function(s) execution.
 
-- **What does LIFO mean?** >
+- **What does LIFO mean?** > Last In First Out.
 
 - **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.** >
 
-- **What causes a Stack Overflow?** >
+```javascript
+function firstFunction() {
+  console.log("Hello from firstFunction");
+}
+
+function secondFunction() {
+  firstFunction();
+  console.log("The end from secondFunction");
+}
+
+secondFunction();
+```
+
+The above copied from the requried reading source noted above with the link.
+
+- **What causes a Stack Overflow?** > Recursive function (a function that calls itself) without an exit point from the stack to pop this function off the stack. The browser will throw a Maximum call size exceeded error.
 
 ## JavaScript Error Messages
 

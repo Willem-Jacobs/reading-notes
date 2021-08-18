@@ -1,48 +1,49 @@
-# Readings: Authentication
+# Readings: Mondo and Mongoose
 
 [Return to 301 TOC](301TOC.md)
 
-## What is OAuth
+## NoSQL or SQL
 
-**[Reading from - Link](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)**
+**[Reading from - Link](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)**
 
-- **What is OAuth?** > Open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow authenticated access to their assets without actually sharing the initial, related, single logon credentials - source from article.
+- **Fill in the chart below with five differences between SQL and NoSQL databases:** >
 
-- **Give an example of what using OAuth would look like.** > You go to website "A" and it offers the ability to login using your Google info. By clicking on the login with Google option, Google will authenticate you and website "A" logs you on itself afterwards using the permission gained from Google.
+  - SQL-Relational Database, Table Based, Predefined Schema, Vertically Scalable, uses SQL for defining and manipulating the data.
+  - NoSQL-Distributed Database, Document Based or key-value pairs or graph databases or wide-column stores, Dynamic Schema for Unstructured Data, Horizontal Scalable, Queries focused on collection of documents.
 
-- **How does OAuth work? What are the steps that it takes to authenticate the user?** > OAuth only works with HTTPS! Assuming the user is already signed into one website or service.
+- **What kind of data is a good fit for an SQL database?** > High transaction databasesas it is more stable and promises the atomicity as well as integrity of the data.
 
-1. The first website connects to the second website on behalf of the user using OAuth, providing the user's verified identity.
-2. The second site generates a one-time token and a one-time secret unique to the transaction and parties involved.
-3. The first website gives this toek and secret to the initiating user's client software.
-4. Client's software presents the request token and secret to their authorization provider.
-5. If not already authenticated to the authorization provider, the client may be asked to authenticate. After authentication, the client is asked to approve the authorization transaction to the second website.
-6. The user approves (or their software silently approves) a particular transaction type at the first website.
-7. The user is given an approved access token.
-8. The user gives the approved access token to the first website.
-9. The first website gives the access token to the second website as proof of authentication on behalf of the user.
-10. The second website lets the first website access their site on behalf of the user.
-11. The user sees a successfully completed transaction occuring.
+- **Give a real world example.** > Airline reservations systems
 
-- **What is OpenID?** > OpenID is for authentication. Not popular but 2014 OpenID Connect was released which reinvented OpenID as an authentication layer for OAuth.
+- **What kind of data is a good fit a NoSQL database?** > Large data sets.
 
-## Authorization and Authentication flows
+- **Give a real world example.** > Blog system
 
-**[Reading from - Link](https://auth0.com/docs/flows)**
+- **Which type of database is best for hierarchical data storage?** > SQL
 
-- **What is the difference between authorization and authentication?** > Authentication is the process of verifying who a user is. Authorization is the process of verifying what they have access to.
+- **Which type of database is best for scalability?** > NoSQL
 
-- **What is Authorization Code Flow?** > Only used on servers where the source code is not publicly exposed. Exchanges an Authorization code for a token. Your app must be server-sdie because during this exchange, you must also pass along oyur application's Client Secret, which must also be kept secure and oyu will have to store it in your client.
+## SQL Vs NoSQL
 
-- **What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?** > Additional security added to the Code Flow for SPA, mobile & native applications. It makes use of a ProofKey for Code Exchange.
+**[Video from - Link](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)**
 
-- **What is Implicit Flow with Form Post?** > Alternative to Authorization Code Flow which is intended for public clients, or applications which are unable to securely store Client Secrets. Not best proactice for requesting Access Tokens, when used with Form Post response mode, it does offer a streamlined workflow if the application needs only an ID token to perform user authentication.
+- **What does SQL stand for?** > Structured Query Language
 
-- **What is Client Credentials Flow?** > Used for M2M machine-to-machine applications such as CLIs, daemons or services running on your back-end, the system authenticates and authorizes the app rather than a user.
+- **What is a realational database?** > Database with works in a certain way and supports SQL that works with tables, columns and rows. Tables can also be linked with a one-to-one or one-to-manu or many-to-many relations between the tables.
 
-- **What is Device Authorization Flow?** > Used for input-constrained devices that connect to the internet. Rather than authenticate the user directly, the device asks the user to go to a link on their computer or smartphone and authorize the device. SmartTVs, AppleTV and others use this.
+- **What type of structure does a relational database work with?** > Defined by a schema that have fields pre-defined. That use tables, columns and rows.
 
-- **What is Resource Owner Password Flow?** > Only for highly trusted applications which request that users provide credentials(username & password) typically using an interactive form. Only use when redirect-based flows cannot be used.
+- **What is a ‘schema’?** > The structure of the table definition
+
+- **What is a NoSQL database?** > A database that does not use SQL and stores data in collections, document, value sets with no schema applied.
+
+- **How does it work?** > Stores data in a different method but needs all kept together in the colleciton.
+
+- **What is inside of a Mongo database?** > Very flexible database that holds collections, documents with no schema can modify the structure and what is saved at anytime and no true relations.
+
+- **Which is more flexible - SQL or MongoDB? and why?** > Hard to say as I like SQL as I am used to it but i can see some benefits of MondoDB. MondoDB is more flexible as you have no schema, can modify the structure and what is stored at anytime.
+
+- **What is the disadvantage of a NoSQL database?** > No master tables to use so if you change a key value, you need to change it everywhere where it i stored. All the data for a colleciton needs to be kept together. Each colleciton holds all the data it needs as NoSQL has no relations.
 
 ## Bookmark/Skim
 
@@ -51,6 +52,7 @@
 ### Things I want to know more about
 
 - OAuth/Auth0 and how all these work.
+- MongoDB and Mongoose.
 - React Bootstrap or some other types of style libraries (Tailwind).
 - Better understaind of this programming method of functional programming.
 - Material UI
